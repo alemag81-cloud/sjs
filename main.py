@@ -237,6 +237,7 @@ def PRIORIDADE(preemptivo, execucao, espera, restante, chegada, prioridade):
     tempo_atual = 0
     processos_terminados = 0
     processo_em_execucao = -1
+# Trecho desenvolvido com auxilio de IA generativa (ChatGPT/OpenAI)
 
     while processos_terminados < n_processos:
         escolhido = -1

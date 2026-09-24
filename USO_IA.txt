@@ -15,3 +15,21 @@ Trechos com auxilio de IA:
 Houve auxilio na estruturacao e revisao da logica relacionada aos algoritmos SJF, Prioridade e Round Robin, incluindo suas variacoes preemptivas e nao preemptivas.
 
 O codigo foi executado e testado durante o desenvolvimento para verificacao dos resultados.
+
+COMO EXECUTAR O PROGRAMA
+
+Requisitos:
+- Python 3 instalado no computador.
+
+Execucao:
+1. Abrir a pasta do projeto no VS Code.
+2. Abrir o arquivo main.py.
+3. Abrir o terminal na pasta onde esta localizado o arquivo main.py.
+4. Executar o comando:
+
+python main.py
+
+5. O programa apresentara um menu com os algoritmos de escalonamento disponiveis.
+6. Escolher a opcao desejada e informar os dados dos processos quando solicitado pelo programa.
+7. O programa exibira o historico de execucao dos processos, o tempo de espera de cada processo e o tempo medio de espera.
+8. Para encerrar o programa, selecionar a opcao 9 - Sair.
