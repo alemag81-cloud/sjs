@@ -1,0 +1,17 @@
+DECLARACAO DE USO DE INTELIGENCIA ARTIFICIAL
+
+Ferramenta utilizada:
+ChatGPT, da OpenAI.
+
+Utilizacao:
+A inteligencia artificial foi utilizada como ferramenta de apoio durante o desenvolvimento do trabalho, principalmente para esclarecimento de duvidas sobre Python e sobre os conceitos dos algoritmos de escalonamento de processos.
+
+Finalidade:
+Foi utilizada para auxiliar na compreensao da logica dos algoritmos, esclarecer duvidas durante a implementacao, analisar erros encontrados durante os testes e auxiliar na compreensao de alguns trechos do codigo.
+
+Tambem foi utilizada para orientacao sobre a utilizacao do VS Code, Git e GitHub durante a organizacao e entrega do projeto.
+
+Trechos com auxilio de IA:
+Houve auxilio na estruturacao e revisao da logica relacionada aos algoritmos SJF, Prioridade e Round Robin, incluindo suas variacoes preemptivas e nao preemptivas.
+
+O codigo foi executado e testado durante o desenvolvimento para verificacao dos resultados.
